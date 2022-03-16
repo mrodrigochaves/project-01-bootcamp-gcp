@@ -2,3 +2,7 @@
 
 Pre-requisites:
 1) Install Python
+
+Link for download and installation procedure in Windows:
+https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
+
