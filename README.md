@@ -46,3 +46,11 @@ Alternative 2
 pip install --upgrade google-cloud-storage
 
 Step 6) Create a new Cloud Storage test bucket
+
+Step 7) Run the python script to validate that it is operational:
+
+Please note, for Mac bootcampers, run the command below first.
+
+chmod +x list_storage.py
+
+python ./lista_storage.py key-chalice-294821-10477d91222d.json
