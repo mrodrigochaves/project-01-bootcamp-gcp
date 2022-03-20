@@ -28,3 +28,5 @@ Step 2) Create a Service Account (IAM > Service Account)
 Name: automation
 
 Role: Storage Admin
+
+Step 3) Create and download a Key (JSON format) for the Service Account (IAM > Service Account > automation > Add Key)
