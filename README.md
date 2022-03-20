@@ -34,3 +34,13 @@ Step 3) Create and download a Key (JSON format) for the Service Account (IAM > S
 Step 4) Download Python script
 
 curl -O https://storage.googleapis.com/bootcamp-gcp-public/lista_storage.py
+
+Step 5) Install Python libraries from Google Cloud Storage service on your laptop
+
+NOTE: YOU WILL NEED PYTHON/PYTHON3 AND PIP/PIP3 INSTALLED ON YOUR LAPTOP BEFORE PROCEEDING.
+
+Alternative 1
+pip3 install --upgrade google-cloud-storage
+
+Alternative 2
+pip install --upgrade google-cloud-storage
