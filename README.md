@@ -44,3 +44,5 @@ pip3 install --upgrade google-cloud-storage
 
 Alternative 2
 pip install --upgrade google-cloud-storage
+
+Step 6) Create a new Cloud Storage test bucket
