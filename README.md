@@ -54,3 +54,7 @@ Please note, for Mac bootcampers, run the command below first.
 chmod +x list_storage.py
 
 python ./lista_storage.py key-chalice-294821-10477d91222d.json
+
+NOTE: Pass as parameter the key file downloaded from Google Cloud Console. The Python script and Key need to be in the same directory.
+
+If the script returns the name of the bucket you created in the console, congratulations you have completed the process successfully!
