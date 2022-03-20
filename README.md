@@ -11,3 +11,9 @@ https://www.python.org/downloads/source/
 
 Link for download and installation procedure in MacOs:
 https://www.python.org/downloads/macos/
+
+Step 1) Install and Configure the Cloud SDK on your laptop
+
+https://cloud.google.com/sdk/docs/quickstart#windows
+https://cloud.google.com/sdk/docs/quickstart#mac
+https://cloud.google.com/sdk/docs/quickstart#linux
