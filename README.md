@@ -22,3 +22,9 @@ https://cloud.google.com/sdk/docs/quickstart#windows
 https://cloud.google.com/sdk/docs/quickstart#mac
 
 https://cloud.google.com/sdk/docs/quickstart#linux
+
+Step 2) Create a Service Account (IAM > Service Account)
+
+Name: automation
+
+Role: Storage Admin
