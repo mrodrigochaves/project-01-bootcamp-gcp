@@ -30,3 +30,7 @@ Name: automation
 Role: Storage Admin
 
 Step 3) Create and download a Key (JSON format) for the Service Account (IAM > Service Account > automation > Add Key)
+
+Step 4) Download Python script
+
+curl -O https://storage.googleapis.com/bootcamp-gcp-public/lista_storage.py
